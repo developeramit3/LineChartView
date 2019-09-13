@@ -11,7 +11,7 @@
     
     
      dependencies {
-	        implementation 'com.github.developeramit3:LineChartView:Tag'
+	        implementation 'com.github.developeramit3:LineChartView:e900ffd463'
 	  }
 
 
